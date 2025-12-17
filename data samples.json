@@ -1,0 +1,5 @@
+[
+    {"text": "سلام چطوری؟", "label": "greeting"},
+    {"text": "قیمت اشتراک شما چنده؟", "label": "pricing"},
+    {"text": "اشتراک من فعال نشده", "label": "support"}
+]
