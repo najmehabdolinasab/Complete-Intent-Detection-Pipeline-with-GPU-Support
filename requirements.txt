@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+setfit
+torch
+transformers
+pydantic
